@@ -10,3 +10,10 @@ const Controlle = ()=>{
 const getName = ()=>{
   return "小杨"
 }
+
+const setAge = (value:number)=>{
+  let age
+  return ()=>{
+    age = value
+  }
+}
