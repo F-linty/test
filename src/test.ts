@@ -34,5 +34,5 @@ server(3000)
 
 //AOP装饰器
 const body = ()=>{
-  
+  return '面向切面编程'
 }
