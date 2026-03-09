@@ -31,3 +31,8 @@ getName()
 
 //调用接口服务
 server(3000)
+
+//AOP装饰器
+const body = ()=>{
+  
+}
