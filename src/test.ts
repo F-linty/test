@@ -17,3 +17,9 @@ const getName = ()=>{
 const setName = (value:string)=>{
   const name = value
 }
+const setAge = (value:number)=>{
+  let age
+  return ()=>{
+    age = value
+  }
+}
