@@ -28,3 +28,6 @@ const setAge = (value:number)=>{
 
 
 getName()
+
+//调用接口服务
+server(3000)
