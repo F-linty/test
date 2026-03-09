@@ -5,3 +5,8 @@ server(3000);
 const Controlle = ()=>{
 
 }
+
+
+const getName = ()=>{
+  return "小杨"
+}
