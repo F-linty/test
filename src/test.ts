@@ -13,3 +13,7 @@ const getAge = ()=>{
 const getName = ()=>{
   return "小杨"
 }
+
+const setName = (value:string)=>{
+  const name = value
+}
