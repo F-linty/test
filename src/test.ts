@@ -25,3 +25,6 @@ const setAge = (value:number)=>{
 }
 
 //注释
+
+
+getName()
