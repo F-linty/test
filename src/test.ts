@@ -5,3 +5,8 @@ server(3000);
 const Controlle = ()=>{
 
 }
+
+
+const getAge = ()=>{
+  return 20
+}
